@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (2025 Graduate)
-- 🌱 Currently learning **Software Testing at QSpiders Kolkata**
+- 🌱 Currently learning **Java FullStack at QSpiders Kolkata**
 - 💻 Skilled in **Core Java, Oracle SQL, HTML, CSS, JavaScript**
 - 🔍 Interested in **Software Development, QA Testing, and Problem Solving**
 - 🤝 Open to Software Developer and Manual Testing opportunities
